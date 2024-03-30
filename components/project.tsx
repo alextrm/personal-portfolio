@@ -8,7 +8,7 @@ import { motion, useScroll, useTransform } from "framer-motion";
 type ProjectProps = {
   title: string;
   description: string;
-  tags: string[];
+  tags: readonly string[];
   imageUrl?: string; // Make imageUrl optional
   link?: string;
 };
