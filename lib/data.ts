@@ -2,7 +2,7 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import simulateur from "@/public/Aero_ideal.png";
+import simulateImg from "@/public/wordanalytics.png";
 
 export const links = [
   {
@@ -103,7 +103,6 @@ export const projectsData = [
     description:
       "I created a laptime simulator using Matlab, that includes various suspension parameter's such as toe or camber. These parameters allow to tune the car's suspensions by comparing the simulated results to the feelings of the driver, in order to get the best performing car for the races.",
     tags: ["Matlab", "Programming", "Vehicles dynamics", "Physics", "Simulation", "Teamwork"],
-    imageUrl: simulateur,
   },
   {
     title: "Watchmaking competition, EPFL",
