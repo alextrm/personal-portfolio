@@ -9,7 +9,7 @@ type ProjectProps = {
   title: string;
   description: string;
   tags: readonly string[];
-  imageUrl?: string; // Make imageUrl optional
+  imageUrl: string; // Make imageUrl optional
   link?: string;
 };
 
