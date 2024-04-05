@@ -111,7 +111,7 @@ export const projectsData = [
     link: "https://youtube.com/shorts/C_iseJ7fsd0?si=MzyZ1JGPvCK8O76b"
   },
   {
-    title: "Feelance job for Nestlé",
+    title: "Freelance job for Nestlé",
     description:
       "I was engaged by Nestlé to design and produce a 3D model of a molecule meant to help R&D. Due to confidentiality, I cannot show my work.",
     tags: ["CAD", "3D-print"],
