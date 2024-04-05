@@ -33,7 +33,6 @@ export default function Contact() {
         <a className="underline" href="mailto:tremeyalex@gmail.com">
           tremeyalex@gmail.com
         </a>{" "}
-        or through this form.
       </p>
     </motion.section>
   );
