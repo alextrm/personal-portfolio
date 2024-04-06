@@ -30,7 +30,7 @@ export default function About() {
           <span className="font-medium">Génie Mécanique</span> à l'EPFL à Lausanne, en Suisse. J'ai terminé un stage dans la division{" "}
           <span className="font-medium">Recherche et Développement de Rolex</span>, et je continue dans l'entreprise pour effectuer ma Thèse de Master, qui me permettra d'obtenir mon diplôme d'ingénieur. J'aime travailler en R&D car cela me permet de travailler sur plusieurs aspects du produit, tel que la{" "}
           <span className="italic">fiabilité, le design, la creation, l'innovation, l'optimisation</span> et donc apprendre des compétences nécéssaire pour un ingénieur mécanique.
-          J'aime travailler en équipe, pour pouovoir échanger des idées et discuter de solutions. Je recherche actuellement un{" "}
+          J'aime travailler en équipe, pour pouvoir échanger des idées et discuter de solutions. Je recherche actuellement un{" "}
           <span className="font-medium">CDI</span> en tant qu'ingénieur mécanique, à partir d'{" "}
           <span className="font-medium">Octobre 2024</span>.
       </p>

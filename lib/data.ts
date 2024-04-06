@@ -204,6 +204,10 @@ export const fulllinks = [
     hash: "#education",
   },
   {
+    name: "Etudes",
+    hash: "#education",
+  },
+  {
     name: "Compétences",
     hash: "#skills",
   },
@@ -246,7 +250,7 @@ export const frexperiencesData = [
     title: "Assistant-étudiant, EPFL",
     location: "Lausanne, Suisse",
     description:
-    "J'ai travaille en tant qu'assistant étudiant dans les cours 'Systèmes dynamiques' et 'Mécanique des milieux continus' à l'EPFL. le travail d'un assistant-étudiant est d'aider les étudiant plus jeunes à comprendre les concepts fondamentaux des cours en vue de leurs examens.",
+    "J'ai travaillé en tant qu'assistant étudiant dans les cours 'Systèmes dynamiques' et 'Mécanique des milieux continus' à l'EPFL. le travail d'un assistant-étudiant est d'aider les étudiant plus jeunes à comprendre les concepts fondamentaux des cours en vue de leurs examens.",
     icon: React.createElement(FaReact),
     date: "2022 - 2023",
   }
@@ -283,20 +287,20 @@ export const frprojectsData = [
   {
     title: "Projet de semestre à l'EPFL Racing Team",
     description:
-      "J'ai créé un simulateur de temps au tour en utilisant Matlab, qui inclut lusieurs paramètres de suspension tels que l'angle de pincement ou l'angle de cambrure. Ces paramètres permettent d'optimiser la voiture en comparant les ré&sultats avec les ressentis du pilote, afin d'obtenir les meilleures performances pour les courses.",
+      "J'ai créé un simulateur de temps au tour en utilisant Matlab, qui inclut plusieurs paramètres de suspension tels que l'angle de pincement ou l'angle de cambrure. Ces paramètres permettent d'optimiser la voiture en comparant les résultats avec les ressentis du pilote, afin d'obtenir les meilleures performances pour les courses.",
     tags: ["Matlab", "Programmation", "Dynamique des véhicules", "Physique", "Simulation", "Travail d'équipe"],
   },
   {
     title: "Compétition horlogère, EPFL",
     description:
-      "J'ai créé uin démonstrateur du mécanisme de tourbillon, très populaire dans la ahute horlogerie. ce démonstrateur a été entièrement designé et imprimé en 3D pour être fonctionnel. Cliquez sur le lien ci-dessous pour le voir en vidéo !",
+      "J'ai créé un démonstrateur du mécanisme de tourbillon, très populaire dans la haute horlogerie. Ce démonstrateur a été entièrement conçu et imprimé en 3D pour être fonctionnel. Cliquez sur le lien ci-dessous pour le voir en vidéo !",
     tags: ["CAD", "Impression 3D", "Design", "Construction"],
     link: "https://youtube.com/shorts/C_iseJ7fsd0?si=MzyZ1JGPvCK8O76b"
   },
   {
     title: "Travail freelance for Nestlé",
     description:
-      "J'ai tét engagé par Nestlé pour designer et produire un modèle 3D d'une structure moléculaire, afin d'aider la division Recherche & Développement. Pour des raison de confidentialité, je peux peux pas illustrer mon travail.",
+      "J'ai été engagé par Nestlé pour concevoir et produire un modèle 3D d'une structure moléculaire, afin d'aider la division Recherche & Développement. Pour des raison de confidentialité, je peux peux pas illustrer mon travail.",
     tags: ["CAD", "Impression 3D"],
   },
 ] as const;

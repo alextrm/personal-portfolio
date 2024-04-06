@@ -20,7 +20,7 @@ export default function Education() {
     if (theme === "light") {
       return "My education";
     } else if (theme === "dark") {
-      return "Mon éducation";
+      return "Mes études";
     }
     // Default heading if theme is not "light" or "dark"
     return "My education";
