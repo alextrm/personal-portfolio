@@ -142,7 +142,7 @@ export const enskillsData = [
 export const frlinks = [
   {
     name: "Accueil",
-    hash: "#accueil",
+    hash: "#home",
   },
   {
     name: "Intro",
@@ -162,6 +162,53 @@ export const frlinks = [
   },
   {
     name: "Compétences",
+    hash: "#skills",
+  },
+  {
+    name: "Contact",
+    hash: "#contact",
+  },
+] as const;
+
+export const fulllinks = [
+  {
+    name: "Accueil",
+    hash: "#home",
+  },
+  {
+    name: "About",
+    hash: "#home",
+  },
+  {
+    name: "Home",
+    hash: "#home",
+  },
+  {
+    name: "Intro",
+    hash: "#about",
+  },
+  {
+    name: "Experience",
+    hash: "#experience",
+  },
+  {
+    name: "Projets",
+    hash: "#projects",
+  },
+  {
+    name: "Projects",
+    hash: "#projects",
+  },
+  {
+    name: "Education",
+    hash: "#education",
+  },
+  {
+    name: "Compétences",
+    hash: "#skills",
+  },
+  {
+    name: "Skills",
     hash: "#skills",
   },
   {

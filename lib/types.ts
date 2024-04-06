@@ -1,3 +1,3 @@
-import { enlinks} from "./data";
+import { fulllinks } from "@/lib/data";
 
-export type SectionName = (typeof enlinks)[number]["name"];
+export type SectionName = (typeof fulllinks)[number]["name"];
