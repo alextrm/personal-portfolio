@@ -122,7 +122,7 @@ export default function Intro() {
           </Link>
           <a
             className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-105 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack "
-            href="/CV.pdf"
+            href="/CV_Alex_TREMEY.pdf"
             download
           >
             Télécharger CV{" "}
@@ -130,7 +130,7 @@ export default function Intro() {
           </a>
           <a
             className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-105 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack "
-            href="/Grades.pdf"
+            href="/Notes.pdf"
             download
           >
             Télécharger notes et références{" "}

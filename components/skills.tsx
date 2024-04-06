@@ -30,7 +30,7 @@ export default function Skills() {
     if (theme === "light") {
       return "Skills";
     } else if (theme === "dark") {
-      return "Compétences";
+      return "Mes compétences";
     }
     // Default heading if theme is not "light" or "dark"
     return "Skills";
